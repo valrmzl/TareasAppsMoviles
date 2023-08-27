@@ -1,10 +1,10 @@
 # tarea_1_5
 
-A new Flutter project.
+Tarea 1.5 para clase de aplicaciones moviles 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Esta aplicación se basa en un contador de click´s donde podemos aumentar, restar e incluso reiniciar la cuenta en 0.
 
 A few resources to get you started if this is your first Flutter project:
 
