@@ -7,7 +7,8 @@
 
 // ignore_for_file: unused_import
 
-import 'package:calculadora_imc/my_app.dart';
+import 'package:calculadora_imc/home_page.dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
