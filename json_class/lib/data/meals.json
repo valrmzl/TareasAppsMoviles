@@ -1,0 +1,22 @@
+{
+    "id": "m11",
+    "categories": ["c3"],
+    "title": "Nombre de tu Nueva Comida",
+    "affordability": "Affordability.affordable",
+    "complexity": "Complexity.simple",
+    "imageUrl": "URL_de_la_Imagen",
+    "duration": 30,
+    "ingredients": [
+      "Ingrediente 1",
+      "Ingrediente 2"
+    ],
+    "steps": [
+      "Paso 1",
+      "Paso 2"
+    ],
+    "isGlutenFree": false,
+    "isVegan": false,
+    "isVegetarian": false,
+    "isLactoseFree": false
+  }
+  
