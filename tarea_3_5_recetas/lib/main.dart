@@ -7,9 +7,7 @@ void main() => runApp(
     theme: ThemeData(
       appBarTheme: AppBarTheme(
         color: Color.fromARGB(255, 109, 81, 50),
-      ),
-    
-     
+      ), 
     ),
     home: MyApp(),
   ),

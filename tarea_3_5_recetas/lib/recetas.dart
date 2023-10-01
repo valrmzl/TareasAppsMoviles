@@ -12,11 +12,6 @@ class RecipeCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-   // Obtener el índice del mapa
-  
-    //String assetPath = 'assets/images/comida-$numero.png';
-
-
 
     return Padding(
       padding: const EdgeInsets.all(8.0),
